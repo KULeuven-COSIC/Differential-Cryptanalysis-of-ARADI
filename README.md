@@ -1,14 +1,10 @@
 # Differential-Cryptanalysis-of-ARADI
 
 ## Preliminary files
-transition.py:
-    Calculations of quasidifferential transition matrix.
-aradi.py:
-    Specifications of the ARADI cipher.
-printing.py:
-    Different printing functions.
-masterkey.py:
-    Specifications of the key schedule, to write subkey bits as linear combinations of the master key bits.
+transition.py: Calculations of quasidifferential transition matrix. <br>
+aradi.py: Specifications of the ARADI cipher. <br>
+printing.py: Different printing functions. <br>
+masterkey.py: Specifications of the key schedule, to write subkey bits as linear combinations of the master key bits. <br>
 
 ## 3 Probability estimates for differentials in ARADI
 probability_calculations.ipynb
